@@ -1,0 +1,18 @@
+{
+    "name": "natasha/001-1",
+    "description": "installation composer",
+    "autoload": {
+        "psr-4": {
+            "Natasha\\0011\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ns-morozova",
+            "email": "ns_morozova@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
