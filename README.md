@@ -1,6 +1,6 @@
 #Домашнее задание по Composer
 
-![alt text](./docs/composer.JPG)
+![alt text](./docs/composer.jpg)
 
 
 composer.json содержит набор пакетов, которые содержатся в проекте и которые будут установлены командой composer install
